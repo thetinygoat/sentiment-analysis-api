@@ -1,2 +1,2 @@
 wordnet
-stop_words
+stopwords
